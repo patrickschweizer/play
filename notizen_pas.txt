@@ -1,4 +1,4 @@
--- Setup environment
+## Setup environment
 - install node.js
 - start node command line
 - create a project folder and jump into it 
@@ -11,3 +11,16 @@
 
 - grunt server   
 - start editing...  
+
+
+## Setup GIT
+- cd working dir
+- git init  (creates local repo)
+- git status
+- git add .  (add files to repo)
+
+- create new repo at githup.com
+- git remote add origin https://github.com/patrickschweizer/play.git
+- git push -u origin master
+- git pull
+..
