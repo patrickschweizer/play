@@ -1,0 +1,13 @@
+-- Setup environment
+- install node.js
+- start node command line
+- create a project folder and jump into it 
+
+- open http://yeoman.io/ and follow setup description
+  - npm install -g yo    (also installs grunt and bower)
+  - npm install -g generator-webapp    (install webapp generator)
+  - yo webapp          (scaffold out a skeleton web app project)
+  --> hint:  remove compass referencies, if compass is not isntalled
+
+- grunt server   
+- start editing...  
